@@ -1,1 +1,8 @@
+#include<iostream>
+{int main()
+int a,b
+printf("enter number one)
+scanf("%d",&a)
+printf("enter number two)
+scanf("%d",&a)
 
